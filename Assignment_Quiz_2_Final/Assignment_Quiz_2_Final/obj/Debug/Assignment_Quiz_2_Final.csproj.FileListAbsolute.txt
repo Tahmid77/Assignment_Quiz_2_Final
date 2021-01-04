@@ -1,0 +1,10 @@
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\bin\Debug\Assignment_Quiz_2_Final.exe.config
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\bin\Debug\Assignment_Quiz_2_Final.exe
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\bin\Debug\Assignment_Quiz_2_Final.pdb
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\obj\Debug\Assignment_Quiz_2_Final.csprojAssemblyReference.cache
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\obj\Debug\Assignment_Quiz_2_Final.AllBooks.resources
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\obj\Debug\Assignment_Quiz_2_Final.Properties.Resources.resources
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\obj\Debug\Assignment_Quiz_2_Final.csproj.GenerateResource.cache
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\obj\Debug\Assignment_Quiz_2_Final.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\obj\Debug\Assignment_Quiz_2_Final.exe
+D:\Assignment\Assignment_Quiz_2_Final\Assignment_Quiz_2_Final\obj\Debug\Assignment_Quiz_2_Final.pdb
